@@ -34,9 +34,9 @@ service](https://console.redhat.com/openshift/create).
 
 ## Prerequisite Tools
 
-Install the installation tooling dependencies. You will need:
+Install the installation tooling dependencies.  
 
-{% include prerequisite-tools.md %}
+{{% include quickstart %}}
 
 ## How to deploy
 
